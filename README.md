@@ -1,0 +1,3 @@
+# gif-search
+
+Search for related gifs upon entering search query
